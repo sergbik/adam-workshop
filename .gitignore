@@ -1,2 +1,6 @@
-# Ignore Python virtual environments
-graph-visualizer/venv/
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
